@@ -123,8 +123,8 @@ function App() {
       description: "10th, ITI, 12th, Diploma,.",
       requirements: ["N/A"],
       applyLink: "https://rectt.bsf.gov.in/registration/basic-details?guid=55c6c141-5288-11f0-8331-0a1dcac2b80f"
-    }
-        {
+    },
+    {
       id: 7,
       title: "QA/Test Automation Developer – Pune (IBM ISDL)",
       company: " IBM – India Systems Development Lab (ISDL).",
