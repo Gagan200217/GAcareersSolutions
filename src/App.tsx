@@ -112,17 +112,31 @@ function App() {
     },
     {
       id: 6,
-      title: "Park Ranger",
-      company: "Karnataka Department of Natural Resources",
+      title: "ಹೆಡ್ ಕಾನ್ಸ್ಟೇಬಲ್ ಹುದ್ದೆಗಳು (1121)",
+      company: "BSF ನೇಮಕಾತಿ 2025.",
       location: "Blue Ridge, GA",
       salary: "$45,000 - $55,000",
       experience: "0-2 years",
       type: "government",
-      postedDate: "2025-01-07",
-      deadline: "2025-02-28",
-      description: "Protect and maintain state parks while educating visitors about natural resources.",
-      requirements: ["Outdoor Skills", "Environmental Knowledge", "Public Safety"],
-      applyLink: "https://techsolutions.com/careers/software-engineer-frontend"
+      postedDate: "N/A",
+      deadline: "N/A",
+      description: "10th, ITI, 12th, Diploma,.",
+      requirements: ["N/A"],
+      applyLink: "https://rectt.bsf.gov.in/registration/basic-details?guid=55c6c141-5288-11f0-8331-0a1dcac2b80f"
+    }
+        {
+      id: 7,
+      title: "QA/Test Automation Developer – Pune (IBM ISDL)",
+      company: " IBM – India Systems Development Lab (ISDL).",
+      location: "Pune, Maharashtra",
+      salary: "N/A",
+      experience: "0-2 years",
+      type: "private",
+      postedDate: "N/A",
+      deadline: "N/A",
+      description: "10th, ITI, 12th, Diploma,.",
+      requirements: ["N/A"],
+      applyLink: "https://southasiacareers.deloitte.com/job/Pune-Executive-Manual-QA-Testing%2C-Automated-QA-Testing-Pune-TTC-DOMESTIC/42533944/?utm_source=jobscoupe.com"
     }
   ];
 
