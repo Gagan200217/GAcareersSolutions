@@ -56,17 +56,19 @@ function App() {
 
     {
       id: 2,
-      title: "Civil Services Officer",
-      company: "Karnataka Department of Transportation",
-      location: "Savannah, GA",
-      salary: "$55,000 - $70,000",
-      experience: "1-3 years",
-      type: "government",
-      postedDate: "2025-01-11",
-      deadline: "2025-02-20",
-      description: "Support infrastructure development projects and public service initiatives.",
-      requirements: ["Bachelor's Degree", "Public Service", "Communication Skills"],
-      applyLink: "https://techsolutions.com/careers/software-engineer-frontend"
+      title: "𝗥𝗼𝗰𝗸𝘄𝗲𝗹𝗹 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗢𝗳𝗳 𝗖𝗮𝗺𝗽𝘂𝘀 𝗗𝗿𝗶𝘃𝗲",
+      company: "𝗥𝗼𝗰𝗸𝘄𝗲𝗹𝗹 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻",
+      location: "karnataka , Bangalore",
+      salary: "₹4 – 6 LPA (Expected)",
+      experience: "N/A",
+      type: "private",
+      postedDate: "2025-08-28",
+      deadline: "August 31, 2025",
+      description: "Rockwell Automation is a global technology leader focused on helping the world’s manufacturers be more productive, sustainable, and agile. With more than 28,000 employees who make the world better every day, we know we have something special. Behind our customers - amazing companies that help feed the world, provide life-saving medicine on a global scale, and focus on clean water and green mobility - our people are energized problem solvers that take pride in how the work we do changes the world for the better.
+
+We welcome all makers, forward thinkers, and problem solvers who are looking for a place to do their best work. And if that’s you we would love to have you join us!.",
+      requirements: ["N/A"],
+      applyLink: "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Bangalore-India/Graduate-Engineer-Trainee--Testing_R25-1633?codes=IND"
     },
     {
       id: 3,
