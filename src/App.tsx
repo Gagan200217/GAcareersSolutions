@@ -98,17 +98,17 @@ function App() {
     },
     {
       id: 5,
-      title: "Data Analyst",
-      company: "Financial Services Corp",
-      location: "Macon, GA",
-      salary: "$60,000 - $75,000",
-      experience: "2-4 years",
+      title: "AI & Machine Learning Internship Opportunity (Remote, 45Days - Unpaid)",
+      company: "AI & Machine Learning Internship Opportunity (Remote, 45Days - Unpaid)",
+      location: "Remote",
+      salary: "N/A",
+      experience: "Fresher Open to all 1st, 2nd, 3rd, and 4th Year Students, as well as Recent Graduates",
       type: "private",
-      postedDate: "2025-01-08",
-      deadline: "2025-02-12",
-      description: "Analyze financial data and create insights to drive business decisions.",
-      requirements: ["Python", "SQL", "Data Visualization", "Statistics"],
-      applyLink: "https://techsolutions.com/careers/software-engineer-frontend"
+      postedDate: "N/A",
+      deadline: "N/A",
+      description: "No  thousands of registration fees, no thousands  joining fees, no course purchases in the name of internship — this is a 100% skill development program with real hands-on experience in AI & ML!.",
+      requirements: ["Enthusiasts in AI, ML, Python, Deep Learning, Data Science, or Model Training"],
+      applyLink: "https://forms.gle/YLAkbBeUqTRGBKiZA"
     },
     {
       id: 6,
