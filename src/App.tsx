@@ -64,9 +64,7 @@ function App() {
       type: "private",
       postedDate: "2025-08-28",
       deadline: "August 31, 2025",
-      description: "Rockwell Automation is a global technology leader focused on helping the world’s manufacturers be more productive, sustainable, and agile. With more than 28,000 employees who make the world better every day, we know we have something special. Behind our customers - amazing companies that help feed the world, provide life-saving medicine on a global scale, and focus on clean water and green mobility - our people are energized problem solvers that take pride in how the work we do changes the world for the better.
-
-We welcome all makers, forward thinkers, and problem solvers who are looking for a place to do their best work. And if that’s you we would love to have you join us!.",
+      description: "Rockwell Automation is a global technology leader focused on helping the world’s manufacturers be more productive, sustainable, and agile. With more than 28,000 employees who make the world better every day, we know we have something special. Behind our customers - amazing companies that help feed the world, provide life-saving medicine on a global scale, and focus on clean water and green mobility - our people are energized problem solvers that take pride in how the work we do changes the world for the better.We welcome all makers, forward thinkers, and problem solvers who are looking for a place to do their best work. And if that’s you we would love to have you join us!.",
       requirements: ["N/A"],
       applyLink: "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Bangalore-India/Graduate-Engineer-Trainee--Testing_R25-1633?codes=IND"
     },
