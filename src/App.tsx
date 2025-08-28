@@ -70,17 +70,17 @@ function App() {
     },
     {
       id: 3,
-      title: "Marketing Manager",
-      company: "Creative Agency Group",
-      location: "Bengaluru , karnataka",
-      salary: "₹65,000 - ₹80,000",
-      experience: "3-5 years",
+      title: "ONGC Recruitment 2025",
+      company: "Oil & Natural Gas Corporation (ONGC)",
+      location: "Goa",
+      salary: "₹₹7,50,000/-",
+      experience: "N/A",
       type: "private",
-      postedDate: "2025-01-10",
-      deadline: "2025-02-10",
-      description: "Lead marketing campaigns and brand strategy for diverse client portfolio.",
-      requirements: ["Marketing Strategy", "Digital Marketing", "Team Leadership"],
-      applyLink: "https://techsolutions.com/careers/software-engineer-frontend"
+      postedDate: "2025-06-10",
+      deadline: "2025-08-30",
+      description: "10th Pass, Graduate Pass….. Recruitment of posts in the Indian Space Research Organisation (ISRO) 2025.As per the Oil and Natural Gas Corporation (ONGC) recruitment notification, the candidate must have completed a Postgraduate degree from any recognized university..",
+      requirements: ["N/A"],
+      applyLink: "https://ongcindia.com/web/eng/detail?assetEntry=76183723&assetClassPK=76183718"
     },
     {
       id: 4,
