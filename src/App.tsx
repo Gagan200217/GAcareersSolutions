@@ -137,6 +137,20 @@ function App() {
       description: "10th, ITI, 12th, Diploma,.",
       requirements: ["N/A"],
       applyLink: "https://southasiacareers.deloitte.com/job/Pune-Executive-Manual-QA-Testing%2C-Automated-QA-Testing-Pune-TTC-DOMESTIC/42533944/?utm_source=jobscoupe.com"
+    },
+      {
+      id: 8,
+      title: "LIC Recruitment 2025 841 Assistant Engineer)",
+      company: " Life insurance corporation of india (LIC).",
+      location: "All Over India",
+      salary: "Rs. 88,635 to 1,69,025/- Per Month",
+      experience: "0-2 years",
+      type: "government",
+      postedDate: "16-August-2025",
+      deadline: "08-September-2025",
+      description: "Assistant Engineer, Assistant Administrative Officer and Various Post,.",
+      requirements: ["N/A"],
+      applyLink: "https://ibpsonline.ibps.in/licjul25/"
     }
   ];
 
